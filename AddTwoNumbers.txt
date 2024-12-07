@@ -1,0 +1,9 @@
+f:
+cd F:\MyProjects\Java Basic Programs-NotePad++\AddTwoNumbers.class
+java AddTwoNumbers
+
+------------------------------------
+/* Save As AddTwoNumbers.bat */
+
+And Remove Above Comment and only first 3 lines of Code
+------------------------------------
